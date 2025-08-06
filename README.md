@@ -47,6 +47,7 @@ print(f"Variance: {var}")
 ```
 # Calculation:
 <img width="1137" height="493" alt="image" src="https://github.com/user-attachments/assets/569f734e-760b-4b16-a82e-c123d85b16b0" />
+
 # Output
 ```
 Attach the Output waveform
