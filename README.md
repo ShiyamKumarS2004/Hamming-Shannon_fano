@@ -11,7 +11,6 @@ NumPy & Matplotlib: Libraries for numerical operations and high-quality visualiz
 ```
 import numpy as np
 import math
-
 L = 0
 hs = 0
 p = []
